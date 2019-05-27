@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi repositorio de HTML y CSS en GitHub
 
-You can use the [editor on GitHub](https://github.com/diegoAlex24/HTML-CSS-examples/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**[Ver página](https://diegoalex24.github.io/HTML-CSS-examples)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **HTML y CSS**.
 
-### Markdown
+![Image HTML y CSS](https://raw.githubusercontent.com/diegoAlex24/HTML-CSS-examples/master/html-css-logo.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### HTML
+Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```html
+<!DOCTYPE html>
+    <head>
+        <title>
+            Titulo
+        </title>
+    </head>
+	<body>
+        Hola HTML
+    </body>
+</html>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contenido
 
-### Jekyll Themes
+1. pagina_1.html
+    * 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diegoAlex24/HTML-CSS-examples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2. estilo_1.css
+    * 
 
-### Support or Contact
+[Repositorio](https://github.com/diegoAlex24/HTML-CSS-examples).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Otros repositorios
+* [PHP](https://diegoalex24.github.io/PHP-examples)
+* [C++](https://diegoalex24.github.io/C-Plus-Plus-examples)
+* [C](https://diegoalex24.github.io/C-examples)
+* [C#](https://diegoalex24.github.io/C-Sharp-examples)
+* [Python](https://diegoalex24.github.io/Python-examples)
+* [Java](https://diegoalex24.github.io/Java-examples)
+* [Angular](https://diegoalex24.github.io/Angular-examples)
+* [Ionic](https://diegoalex24.github.io/Ionic-examples)
+* [SQL](https://diegoalex24.github.io/SQL-examples)
