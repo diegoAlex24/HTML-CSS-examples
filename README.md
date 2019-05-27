@@ -4,7 +4,7 @@
 
 Este repositorio está dirigido a todas las personas que buscan aprender o repasar las características de **HTML y CSS**.
 
-![Image HTML y CSS](https://raw.githubusercontent.com/diegoAlex24/HTML-CSS-examples/master/html-css-logo.png)
+![Image HTML y CSS](https://raw.githubusercontent.com/diegoAlex24/HTML-CSS-examples/master/html-css-logo.jpg)
 
 ### HTML
 Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos de internet.
