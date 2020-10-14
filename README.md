@@ -24,11 +24,64 @@ Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 
 ### Contenido
 
-1. pagina_1.html
-    * 
+1. HTML
+    * index.html
+        * Comentarios
+        * Versiones anteriores
+        * Nueva estructura
+        * HTML 5
+            * Head
+                * meta
+                    * charset
+                    * http-equiv
+                        * refresh
+                        * X-UA-Compatible
+                    * name
+                        * keywords
+                        * viewport
+                    * description
+                * script
+                * base
+                * link
+                * title
+                    * &acute
+            * Body
+                * Cabecera H1
+                * Parrafo
 
-2. estilo_1.css
-    * 
+2. CSS
+    * project_1 (CSS incrustado en HTML)
+        * index.html
+            * Estilos incrustados en la etiqueta style
+                * Estilos en etiquetas
+                    * Color de fondo
+                    * Color de texto
+                    * Alineación del texto
+                    * Tipo de fuente
+                    * Tamaño de fuente
+                    * Relleno del elemento
+            * Estilos incrustados en la propiedad style de una etiqueta HTML
+    * project_2 (CSS separado del HTML)
+        * index.html
+            * Importación de una hoja de estilos
+            * Descripción CSS
+            * Prueba de estilo en etiqueta
+            * Prueba de estilo en clase
+            * Prueba de estilo en identificador
+        * style.css
+            * Comentarios
+            * Sintaxis
+            * Importar otras hojas de estilos
+            * Estilo general (todos los elementos)
+            * Estilo para todas las etiquetas de un tipo
+            * Definición de una clase
+            * Definición de un identificador
+    * project_3 (Efectos CSS3)
+        * index.html
+            * Importacion archivo css <link>
+            * Psudoelementos
+        * style.css
+            * Borde y tamaño del ancho
 
 [Repositorio](https://github.com/diegoAlex24/HTML-CSS-examples).
 
