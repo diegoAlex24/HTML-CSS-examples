@@ -36,19 +36,44 @@ para crear la estructura HTML5 -->
 <html lang="es"> <!-- idioma a usar -->
     <head>
         <meta charset="UTF-8"> <!-- Definimos conjunto de caracteres latino -->
-        <meta http-equiv="refresh" content="3; url=paginaRedireccionada.html"/> <!-- Redirecciona a la otra página pasando 3 segundos-->
-        <<meta http-equiv="X-UA-Compatible" content="ie=edge"> <!-- Establece vista de compatibilidad para el contenido -->
-        <meta name="keywords" content="html5, tutorial, tags, programar"/> <!-- Etiqueta el contenido del sitio -->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Controla la composición en los navegadores moviles -->
+        <meta http-equiv="refresh" content="30; url=paginaRedireccionada.html"> <!-- Redirecciona a la otra página pasando 3 segundos -->
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"> <!-- Establece vista de compatibilidad para el contenido -->
+        <meta name="keywords" content="html5, tutorial, tags, programar"> <!-- Etiqueta el contenido del sitio-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Controla la composición en los navegadores moviles-->
         <meta description="Descripcion del sitio"> <!-- Lo que se pone cuando se encuentra el link en una busqueda -->
         <script src="archivo.js"></script>  <!-- Agrega un archivo JavaScript -->
         <base href="http://localhost"/>
         <link rel="stylesheet" href="estilo.css"> <!-- Agrega un archivo CSS -->
-        <title>Home p&aacute;gina</title> <!-- titulo que llevara la página en la pestaña y vocal con acento entre & y acute; -->
+        <title>Home p&aacute;gina</title> <!-- título que llevara la página en la pestaña y vocal con acento entre & y acute; -->
     </head>
     <body>
-        <h1>HyperText Markup Language</h1> <!-- Etiqueta de cabecera tamaño 1-->
-        <p>Esto es un parrafo</p> <!--Etiqueta de parrafo-->
-
+        <header> <!--Cabecera-->
+          <!-- Se recomientda solo exista una etiqueta h1 por relevancia semantica -->
+          <h1>HyperText Markup Language</h1> <!-- Etiqueta de cabecera tamaño 1 -->
+          <figure> <!-- Etiqueta para poner elementos gráficos -->
+            logo de p&aacute;gina
+            <figcaption>
+              T&iacute;tulo del logo
+            </figcaption>
+          </figure>
+        </header>
+        <nav> <!-- Menu nav -->
+          Menu del sitio
+        </nav>
+        <section> <!-- Seccion -->
+          <hgroup> <!--Agregar encabezados secundarios -->
+            <h1>Encabezado</h1> <!--Los encabezados van desde ek 1 al 6-->
+            <h2>Subencabezado</h2>
+          </hgroup>
+          <article> <!--Contenido de la seccion-->
+            <p>Esto es un p&aacute;rrafo</p> <!--Etiqueta de párrafo-->
+            <section>
+              Seccion en el articulo
+            </section>
+          </article>
+        </section>
+        <footer> <!--Pie de página-->
+          HTML5 pie de p&aacute;gina
+        </footer>
     </body>
 </html>

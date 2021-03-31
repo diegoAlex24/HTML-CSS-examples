@@ -13,7 +13,7 @@ Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 <!DOCTYPE html>
     <head>
         <title>
-            Titulo
+            T&iacute;tulo
         </title>
     </head>
 	<body>
@@ -46,8 +46,16 @@ Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos 
                 * title
                     * &acute
             * Body
-                * Cabecera H1
-                * Parrafo
+                * Header
+                    * Cabecera H1
+                    * figure
+                        * figcaption
+                * Nav
+                * Section
+                    * hgroup
+                    * article
+                        * Párrafo
+                * Footer
 
 2. CSS
     * project_1 (CSS incrustado en HTML)
