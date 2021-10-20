@@ -22,6 +22,9 @@ Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos 
 </html>
 ```
 
+#### Verificación HTML
+Para verificar que el contenido HTML este correcto podemos utilizar la página de la [W3C](https://validator.w3.org/)
+
 ### Contenido
 
 1. HTML
@@ -39,10 +42,11 @@ Todos los archivos son recopilatorios de diversos tutoriales, tareas y ejemplos 
                     * name
                         * keywords
                         * viewport
-                    * description
                 * script
                 * base
                 * link
+                  * stylesheet
+                  * icon
                 * title
                     * &acute
             * Body
