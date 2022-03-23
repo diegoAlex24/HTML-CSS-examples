@@ -59,6 +59,8 @@ Para verificar que el contenido HTML este correcto podemos utilizar la página d
                     * hgroup
                     * article
                         * Párrafo
+                        * pre
+                        * b
                 * Footer
 
 2. CSS
